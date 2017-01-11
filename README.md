@@ -17,7 +17,7 @@ Tam Sam Som Example for success startup and our web production project (INT492)
 คนที่มีสถานที่พักหรือคนที่ต้องการสถานที่พัก
 ```
 
-### Service Obtain market 
+### Service Obtain Market 
 ```
 คนที่ต้องการสร้างรายได้จากสถานที่พักของตนหรือคนที่ต้องการสถานที่พักขณะท่องเที่ยว
 ```
@@ -28,11 +28,11 @@ Tam Sam Som Example for success startup and our web production project (INT492)
 ```
 นักพัฒนาแอพลิเคชั่นทั่วโลก 
 ```
-### Service Avaible Market
+### Service Available Market
 ```
 นักพัฒนาแอพลิเคชั่นที่มีปัญหาด้านการเตรียมความพร้อมและดูแล application ก่อน-หลัง lunch
 ```
-### Service obtain market 
+### Service Obtain Market 
 ```
 นักพัฒนาแอพลิเคชั่นที่ต้องการหา Tools ใช้ในการ ลดปัญหาการเตรียมความพร้อมและดูแล application ก่อน-หลัง lunch
 ```
