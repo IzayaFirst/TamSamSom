@@ -24,7 +24,7 @@ Tam Sam Som Example for success startup and our web production project (INT492)
 ## AiPEN.io
 #
 ![AiPEN](https://raw.githubusercontent.com/Ima8/TamSamSom/master/logo_aipen.png)
-> AiPEN.io is a platform for back-end as a service that provide service help you launch your product to customer easily
+> AiPEN.io is a platform for back-end as a service that provide service help you deliver your product to customer easily and nothing to anxious aim to make you be a Happy Developer!! .
 
 ### Target Availavle Market
 ```
