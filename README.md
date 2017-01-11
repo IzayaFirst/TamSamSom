@@ -7,19 +7,17 @@ Tam Sam Som Example for success startup and our web production project (INT492)
 
 ### Target Available Market
 ```
-
-นักท่องเที่ยว/นักเดินทางทั่วโลก
+Trip Booked (WorldWide) 1.9 Billion+
 ```
 
 ### Served Available Market 
 ```
-
-คนที่มีสถานที่พักหรือคนที่ต้องการสถานที่พัก
+Budget and online trips 532M
 ```
 
 ### Share of Market
 ```
-คนที่ต้องการสร้างรายได้จากสถานที่พักของตนหรือคนที่ต้องการสถานที่พักขณะท่องเที่ยว
+Trips with Airbnb 10.6M
 ```
 ## AiPEN.io
 #
