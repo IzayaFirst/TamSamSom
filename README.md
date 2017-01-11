@@ -22,7 +22,7 @@ Tam Sam Som Example for success startup and our web production project (INT492)
 คนที่ต้องการสร้างรายได้จากสถานที่พักของตนหรือคนที่ต้องการสถานที่พักขณะท่องเที่ยว
 ```
 ## AiPEN.io
-> AiPEN.io is a platform for back-end as a service that provide service help you luanch your product to customer easily
+> AiPEN.io is a platform for back-end as a service that provide service help you launch your product to customer easily
 
 ### Target Availavle Market
 ```
