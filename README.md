@@ -26,15 +26,15 @@ Trips with Airbnb 10.6M
 
 ### Target Availavle Market
 ```
-นักพัฒนาแอพลิเคชั่นทั่วโลก
+Developers around the world (Estimate 60m+)
 ```
 ### Served Available Market 
 ```
-นักพัฒนาแอพลิเคชั่นที่มีปัญหาด้านการเตรียมความพร้อมและดูแล application ก่อน-หลัง lunch
+Developers have problems with delivering product (Estimate 30m+)
 ```
 ### Share of Market
 ```
-นักพัฒนาแอพลิเคชั่นที่ต้องการหา Tools ใช้ในการ ลดปัญหาการเตรียมความพร้อมและดูแล application ก่อน-หลัง lunch
+Developers use AiPEN.io for solution (2m+)
 ```
 ## Team Member
 - Noraset 57130500039
