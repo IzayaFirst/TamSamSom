@@ -24,7 +24,7 @@ Trips with Airbnb 10.6M
 ![AiPEN](https://raw.githubusercontent.com/Ima8/TamSamSom/master/logo_aipen.png)
 > AiPEN.io is a platform for back-end as a service that provide service help you deliver your product to customer easily and nothing to anxious aim to make you be a Happy Developer!! .
 
-### Target Availavle Market
+### Target Available Market
 ```
 Developers around the world (Estimate 60m+)
 ```
