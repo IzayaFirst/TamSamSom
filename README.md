@@ -26,11 +26,11 @@ Trips with Airbnb 10.6M
 
 ### Target Available Market
 ```
-Developers around the world (Estimate 60m+)
+Developers around the world (Estimate 40m+)
 ```
 ### Served Available Market 
 ```
-Developers have problems with delivering product (Estimate 30m+)
+Developers have problems with delivering product (Estimate 10m+)
 ```
 ### Share of Market
 ```
@@ -40,3 +40,8 @@ Developers use AiPEN.io for solution (2m+)
 - Noraset 57130500039
 - Patchara 57130500051
 - Issaret 57130500097
+## Reference
+- https://www.infoq.com/news/2014/01/IDC-software-developers
+- http://stackoverflow.com/research/developer-survey-2016
+- http://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable
+- 
